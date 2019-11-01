@@ -1,3 +1,4 @@
+//BillingCalloutService
 public class BillingCalloutService {
 
     public static final String BIlLING_SERVICE_CREDENTIALS = 'BillingServiceCredential';
